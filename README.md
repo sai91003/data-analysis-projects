@@ -1,1 +1,2 @@
-## his project focuses on analyzing E-Commerce sales data to evaluate business performance, customer trends, and revenue growth. An interactive dashboard was created using Microsoft Excel to visualize key metrics and support data-driven decision-making.
+# E-Commerce Data Analysis project
+## This project focuses on analyzing E-Commerce sales data to evaluate business performance, customer trends, and revenue growth. An interactive dashboard was created using Microsoft Excel to visualize key metrics and support data-driven decision-making.
